@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test-CafFL-DD</string>
+    <string name="caf_faceliveness">Caf FaceLiveness</string>
+    <string name="caf_documentdetector">Caf DocumentDetector</string>
+</resources>
