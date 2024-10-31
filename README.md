@@ -39,7 +39,7 @@ Before getting started, ensure you have the following:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/caf-sdk-integration-example.git
+   git clone https://github.com/combateafraude/android-caf-integration-reference
    ```
 
 2. **Open the Project in Android Studio**
