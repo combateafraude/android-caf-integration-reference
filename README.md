@@ -66,7 +66,7 @@ Before getting started, ensure you have the following:
      }
      ```
 
-   - Replace `"YOUR_PERSON_ID"`
+   - Replace `“YOUR_PERSON_ID”` with a personal user ID.
    - Replace `"YOUR_MOBILE_TOKEN"` with the values provided by CAF.
 
 2. **SDK Configuration**
